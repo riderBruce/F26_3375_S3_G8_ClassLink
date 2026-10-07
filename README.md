@@ -5,8 +5,8 @@
 **Course:** CSIS 3375  
 **Term:** Fall 2026  
 **Section:** 03  
-**Group:** [Group Number]  
-**App Name:** ClassLink
+**Group:** 08  
+**App Name:** SeenYouAround
 
 ## Team Members
 
@@ -17,7 +17,7 @@
 
 ## Project Description
 
-ClassLink is a classroom-focused app that helps students discover and connect with nearby classmates. It is designed to support communication, study groups, and student-to-student support.
+SeenYouAround is a classroom-focused app that helps students discover and connect with nearby classmates. It is designed to support communication, study groups, and student-to-student support.
 
 ## Preliminary Features
 
