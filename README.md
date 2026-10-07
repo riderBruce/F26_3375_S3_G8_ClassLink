@@ -1,4 +1,4 @@
-# ClassLink
+# SeenYouAround
 
 ## CSIS 3375 Group Project
 
