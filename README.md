@@ -33,8 +33,8 @@ SeenYouAround is a classroom-focused app that helps students discover and connec
 ```text
 F26_3375_S#_G#_ClassLink/
 ├── README.md
-├── ReportsAndDocuments/
-└── Misc/                  # Optional
+├── ReportsAndDocuments//00_WorkLogs
+└── Misc/                 
 ```
 
 `ReportsAndDocuments` contains project reports, work logs, and other project documentation.
