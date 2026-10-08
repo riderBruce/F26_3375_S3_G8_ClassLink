@@ -17,7 +17,7 @@
 
 ## Project Description
 
-SeenYouAround is a classroom-focused app that helps students discover and connect with nearby classmates. It is designed to support communication, study groups, and student-to-student support.
+SeenYouAround helps students start conversations with the classmates who sit near them. It is designed to support communication, study groups, and student-to-student support.
 
 ## Preliminary Features
 

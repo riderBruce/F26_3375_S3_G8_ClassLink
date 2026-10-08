@@ -6,4 +6,4 @@
 | October 1, 2026 | 0.25 | Project Idea Meeting |
 | October 3, 2026 | 1.25 | Created the project schedule, including milestones, task breakdown, and deadlines |
 | October 5, 2026 | 2.00 | Finalized the app idea and defined its main concept, target users, and core features |
-| October 7, 2026 | 2.00 | Wrote the proposal document and prepared the materials for submission |
+| October 7, 2026 | 2.00 | Wrote the proposal document mainly introduction and preliminary list of features, and prepared the materials for submission |
