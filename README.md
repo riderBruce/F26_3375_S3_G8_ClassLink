@@ -1,4 +1,4 @@
-# SeenYouAround
+# Seen You Around
 
 ## CSIS 3375 Group Project
 
@@ -6,13 +6,13 @@
 **Term:** Fall 2026  
 **Section:** 03  
 **Group:** 08  
-**App Name:** SeenYouAround
+**App Name:** Seen You Around
 
 ## Team Members
 
 | Name | Student ID | Email |
 |---|---|---|
-| Akito N. | 300422052 | [Email] |
+| Akito Nakajima | 300422052 | nakajimaa@student.douglascollege.ca |
 | Alex Kim (Youngil Kim) | 300427965 | kimy132@student.douglascollege.ca |
 
 ## Project Description
@@ -21,14 +21,11 @@ SeenYouAround is a classroom-focused app that helps students discover and connec
 
 ## Preliminary Features
 
-- Discover nearby classmates using Bluetooth
-- Chat with classmates
-- Create and join study groups
-- Organize virtual or in-person study sessions
-- Share course deadlines
-- Find students with similar academic interests or difficulties
-- Control profile visibility and discoverability
-
+- Study partner matching
+- Study group creation
+- Virtual study sessions
+- Similar academic difficulty or interest matching
+- Privacy and discoverability controls
 > These features are preliminary and may change during the design process.
 
 ## Repository Structure
@@ -44,7 +41,7 @@ F26_3375_S#_G#_ClassLink/
 
 ## Instructor
 
-**Instructor:** Pawan Kandhadai  
+**Instructor:** Padmapriya Arasanipalai Kandhadai 
 **Email:** kandhadaip@douglascollege.ca
 
 The instructor is added as a collaborator to this repository.
